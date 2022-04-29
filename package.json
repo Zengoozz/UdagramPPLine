@@ -1,0 +1,19 @@
+{
+    "engines": {
+      "npm": ">=8.1.2",
+      "node": ">=16.13.2"
+    },
+    "scripts": {
+      "frontend:install": "cd frontend && npm install",
+      "frontend:build": "cd frontend && npm run build",
+      "frontend:test":"cd frontend && npm run test",
+      "frontend:e2e":"cd frontend && npm run e2e",
+      "frontend:deploy": "cd frontend && npm run deploy",
+      "backend:install": "cd backend && npm install",
+      "backend:build": "cd backend && npm run build",
+      "backend:test":"cd backend && npm run test",
+      "backend:deploy": "cd backend && npm run deploy"
+      
+    }
+  }
+  
