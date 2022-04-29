@@ -2,11 +2,11 @@
   "name": "udagram-api",
   "version": "2.0.0",
   "description": "",
-  "main": "src/server.js",
+  "main": "www/server.js",
   "engines": {
-    "npm": ">=8.1.2",
-    "node": ">=16.13.2"
-  },
+      "npm": ">=8.1.2",
+      "node": ">=16.13.2"
+    },
   "scripts": {
     "start": "node .",
     "tsc": "tsc",
