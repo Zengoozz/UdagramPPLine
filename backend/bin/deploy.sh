@@ -6,7 +6,7 @@ eb setenv AWS_PROFILE=$PROFILE_VAR URL=$EB_URL_VAR POSTGRES_USERNAME=$USERNAME_V
 eb printenv
 
 eb deploy
-
+#
 
 
 
