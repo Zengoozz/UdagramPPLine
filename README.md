@@ -7,7 +7,7 @@
 - User creation to document RDS connection success screenshot is provided at `media/createUser`.
 - Elastic beanstalk environment health screenshot is provided at `media/ebHealth`.
 - S3 bucket for deployed frontend screenshot is provided at `media/bucket`.
-- Authorization of last build to show the access of CircleCi account to my guthub repo screenshot is provided at `media/CircleCi`.
+- Authorization of last build to show the access of CircleCi account to my github repo screenshot is provided at `media/CircleCi`.
 
 ## Getting Started
 
