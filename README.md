@@ -1,12 +1,13 @@
 # Udagram Full-Stack Web Application
 
 - Application deployed version is available at [S3 Bucket](http://pipelineprojectbucket.s3-website-us-east-1.amazonaws.com).
-- Infrastructure illustration diagram is provided in  `media/InfrastructureDiagram`.
-- CircleCi environment variables screenshot is provided in `media/CircleCiEnv`.
-- RDS connectivity test via PgAdmin screenshot is provided in `media/PgAdmin`.
-- User creation to document RDS connection success screenshot is provided in `media/createUser`.
-- Elastic beanstalk environment health screenshot is provided in `media/ebHealth`.
-- S3 bucket for deployed frontend screenshot is provided in `media/bucket`.
+- Infrastructure illustration diagram is provided at  `media/InfrastructureDiagram`.
+- CircleCi environment variables screenshot is provided at `media/CircleCiEnv`.
+- RDS connectivity test via PgAdmin screenshot is provided at `media/PgAdmin`.
+- User creation to document RDS connection success screenshot is provided at `media/createUser`.
+- Elastic beanstalk environment health screenshot is provided at `media/ebHealth`.
+- S3 bucket for deployed frontend screenshot is provided at `media/bucket`.
+- Authorization of last build to show the access of CircleCi account to my guthub repo screenshot is provided at `media/CircleCi`.
 
 ## Getting Started
 
