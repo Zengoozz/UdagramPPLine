@@ -1,5 +1,5 @@
 node_modules
-README.md
+rd.md
 .circleci/trail.yml
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
