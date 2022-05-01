@@ -36,7 +36,7 @@ jobs:
           name: Back-End Deploy
           command: |
             npm run backend:deploy
-      filters:
+        filters:
           branches:
             only:
               - main
