@@ -2,6 +2,7 @@
 
 - Application deployed version is available at [S3 Bucket](http://pipelineprojectbucket.s3-website-us-east-1.amazonaws.com).
 - Infrastructure illustration diagram is provided at  `media/InfrastructureDiagram`.
+- Pipeline diagram is provided at `media/PipelineDiagram`.
 - CircleCi environment variables screenshot is provided at `media/CircleCiEnv`.
 - RDS connectivity test via PgAdmin screenshot is provided at `media/PgAdmin`.
 - User creation to document RDS connection success screenshot is provided at `media/createUser`.
